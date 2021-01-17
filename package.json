@@ -2,7 +2,7 @@
     "name": "goit-react-hw-02-phonebook",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://DmytroLukianenko.goit-react-hw-02-phonebook",
+    "homepage": "https://DmytroLukianenko.github.io/goit-react-hw-02-phonebook",
     "dependencies": {
         "@material-ui/core": "^5.0.0-alpha.23",
         "@material-ui/icons": "^4.11.2",
